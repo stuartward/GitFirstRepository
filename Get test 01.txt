@@ -1,1 +1,2 @@
 Here is the first line of the test
+Here is a new line of text
